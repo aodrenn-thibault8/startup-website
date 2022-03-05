@@ -1,0 +1,29 @@
+
+a{
+	text-decoration: none;
+	color: white;
+	transition: color 0.3s ease;
+}
+
+
+a:hover {
+	/* when i put the mouse on the link it changes color*/
+	color:rgb(50,50,50);
+	font-size: 19px;
+}
+
+
+.btn-grey: hover 
+{
+	background-color: white ;
+	color: #B26E63;
+} 
+
+.btn-grey
+{
+	background-color: #B26E63;
+	color: white ;
+	padding: 10px 10px;
+	border-radius: 4px;
+
+}

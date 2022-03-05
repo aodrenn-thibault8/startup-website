@@ -1,0 +1,34 @@
+@import url("https://fonts.googleapis.com/css2?family=Bebas+Neue&display=swap");
+@import url("components/container.css");
+@import url("components/avatar.css");
+@import url("components/button.css");
+@import url("components/banner.css");
+@import url("components/card.css");
+
+body {
+	background-color: rgb(230, 230, 230);
+	color: #B26E63 ;
+	font-family: 'Bebas Neue', cursive;
+	letter-spacing: 1px;
+	margin: 0;
+
+}
+
+
+h1, h2, h3 {
+	font-family: 'Bebas Neue', sans-serif;
+	font-weight: bold;
+	font-style: center;
+}
+
+.image-small {
+	width: 300px;
+	height: auto;
+}
+
+.title{
+	margin-left: 30;
+}
+
+
+
